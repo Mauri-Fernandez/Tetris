@@ -1,0 +1,4 @@
+1. no resetea el tablero cuando pierde
+2. no se puede girar el obj pieza (previamente funcionaba)
+3. sonido 
+4. puntaje
